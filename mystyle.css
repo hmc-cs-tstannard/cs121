@@ -2,8 +2,13 @@ body {
   padding-left: 11em;
   font-family: Georgia, "Times New Roman",
         Times, serif;
-  color: green;
+<<<<<<< HEAD
+  color: red;
   background-color: #d8da3d }
+=======
+  color: white;
+  background-color: #008080 }
+>>>>>>> 15d81ca62002b16699e06b84524e300594d77b81
 ul.navbar {
   list-style-type: none;
   padding: 0;
